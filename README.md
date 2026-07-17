@@ -2,9 +2,9 @@
 
 2000 workflow 
 
-[![Website](https://img.shields.io/badge/Website-alegoai.com-blue)](https://www.alegoai.com/)
+
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Developer](https://img.shields.io/badge/Developer-Emre%20Taş-orange)](https://www.alegoai.com/)
+
 
 
 
@@ -29,7 +29,6 @@ AI Workflow Hub is a collection of **2000+ free N8N AI automation workflows** de
 ### Step-by-Step Guide
 
 #### 1. **Copy Workflow JSON**
-- Navigate to any workflow on [alegoai.com](https://www.alegoai.com/)
 - Click the **"Copy JSON"** button above the workflow
 - The complete workflow configuration will be copied to your clipboard
 
@@ -110,7 +109,7 @@ Our workflows are organized into the following categories:
 
 
 ### 🆘 Getting Help
-- **Website**: [alegoai.com](https://www.alegoai.com/)
+
 - **Documentation**: Available on the website
 - **Community**: N8N community forums
 
@@ -145,8 +144,7 @@ Our workflows are organized into the following categories:
 
 ## 📞 Contact
 
-### 🌐 Website
-- **Main Site**: [alegoai.com](https://www.alegoai.com/)
+
 
 ### 💰 Support the Project
 If you find these workflows helpful and want to support the project:
@@ -156,7 +154,7 @@ If you find these workflows helpful and want to support the project:
 
 ## 🚀 Ready to Get Started?
 
-1. **Visit** [alegoai.com](https://www.alegoai.com/)
+
 2. **Browse** our workflow collection
 3. **Choose** a workflow that fits your needs
 4. **Copy** the JSON configuration
